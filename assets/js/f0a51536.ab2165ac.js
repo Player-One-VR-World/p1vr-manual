@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[386],{9469:(e,t,s)=>{s.r(t),s.d(t,{default:()=>u});s(6540);var a=s(4848);const u=e=>{let{src:t}=e;return(0,a.jsx)("img",{src:t,alt:"Default",style:{maxWidth:"100%",height:"auto"}})}}}]);

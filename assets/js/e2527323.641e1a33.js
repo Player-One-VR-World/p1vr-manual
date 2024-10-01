@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[744],{3820:(e,r,s)=>{s.r(r),s.d(r,{default:()=>c});var l=s(4848);const c=e=>{let{children:r,color:s}=e;return(0,l.jsx)("span",{style:{backgroundColor:s,borderRadius:"2px",color:"#fff",padding:"0.2rem"},children:r})}}}]);
